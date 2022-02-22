@@ -60,3 +60,13 @@ through this process.)
 2. Open the sample into Android Studio.
 3. Build and run the sample. You may need to update gradle and library versions. 
 Follow the guidance provided by Android Studio. 
+
+
+CODELAB: Android Kotlin Fundamentals: Create a fragment
+-------------------------------------------------------
+
+<br><b>What I learned:</b>
+- How to add a Fragment statically to the app
+
+<br><b>What I did:</b>
+- Create a Fragment inside an activity.
